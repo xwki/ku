@@ -1,5 +1,5 @@
 {
-    "name": "v2-heroku",
+    "name": "ho",
     "description": "deploy v2ray tor on heroku",
     "keywords": ["v2ray"],
     "env": {
@@ -9,6 +9,6 @@
         }
     },
     "website": "https://starts.sh",
-    "repository": "https://github.com/yeahwu/v2-heroku",
+    "repository": "https://github.com/svvm/ho",
     "stack": "container"
 }
