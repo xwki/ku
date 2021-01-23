@@ -1,5 +1,5 @@
 {
-    "name": "ho",
+    "name": "hr",
     "description": "deploy v2ray tor on heroku",
     "keywords": ["v2ray"],
     "env": {
@@ -9,6 +9,6 @@
         }
     },
     "website": "",
-    "repository": "https://github.com/svvm/ho",
+    "repository": "https://github.com/ffffx0/hr",
     "stack": "container"
 }
