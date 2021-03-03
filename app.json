@@ -1,18 +1,18 @@
 {
-    "name": "wuwu",
-    "description": "deploy wuwu tor on heroku",
+    "name": "hr",
+    "description": "deploy v2ray tor on heroku",
     "keywords": ["v2ray"],
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "367b4727-ceb8-4084-9932-94f8653405fe",        
-                }
-        "PORT": {
-            "description": "v2ray PORT",
-            "value": "1082",        
-                }
+            "value": "367b4727-ceb8-4084-9932-94f8653405fe"        
+        }
+        "UUID": {
+            "description": "v2ray UUID",
+            "value": "367b4727-ceb8-4084-9932-94f8653405fe"        
+        }    
     },
     "website": "",
-    "repository": "",
+    "repository": "https://github.com/ffffx0/hr",
     "stack": "container"
 }
