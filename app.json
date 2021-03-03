@@ -1,5 +1,5 @@
 {
-    "name": "hr",
+    "name": "wuwu",
     "description": "deploy v2ray tor on heroku",
     "keywords": ["v2ray"],
     "env": {
@@ -9,6 +9,6 @@
         }
     },
     "website": "",
-    "repository": "https://github.com/ffffx0/hr",
+    "repository": "",
     "stack": "container"
 }
