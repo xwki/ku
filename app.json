@@ -5,13 +5,7 @@
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "367b4727-ceb8-4084-9932-94f8653405fe"        
-        }
-    },
-     "env": {
-        "PORT": {
-            "description": "v2ray PORT",
-            "value": "1082"        
+            "value": "UUID"        
         }
     },
     "website": "",
