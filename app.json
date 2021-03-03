@@ -1,6 +1,6 @@
 {
     "name": "wuwu",
-    "description": "deploy v2ray tor on heroku",
+    "description": "deploy wuwu tor on heroku",
     "keywords": ["v2ray"],
     "env": {
         "UUID": {
